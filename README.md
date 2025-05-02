@@ -1,4 +1,4 @@
-# Online Sales Data Analysis (SQL)  
+# E-commerce Sales Data Analysis Using SQL
 
 ## Overview  
 This project analyzes online sales data using SQL to extract valuable insights about customer behavior, sales trends, and product performance.
